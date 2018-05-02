@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">小小记账本</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="icons">&#xe6e0; &#xe6e1; &#xe6e2; &#xe6e3;&#xe6e4;&#xe77b;</string>
+</resources>

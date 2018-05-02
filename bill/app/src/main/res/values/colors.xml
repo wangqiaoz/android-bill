@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="app_bg">#efefef</color>
+
+    <color name="white">#ffffff</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_333333">#333333</color>
+    <color name="black">#000000</color>
+    <color name="color_d4d4d4">#D4D4D4</color>
+    <color name="color_bbbbbb">#bbbbbb</color>
+    <color name="color_399cff">#399cff</color>
+    <color name="color_FF6633">#FF6633</color>
+    <color name="color_8a8a8a">#8a8a8a</color>
+    <color name="color_F0EFF5">#F0EFF5</color>
+    <color name="color_F3F3F3">#F3F3F3</color>
+    <color name="color_dbdbdb">#DBDBDB</color>
+    <color name="color_e4ebe8">#e4ebe8</color>
+    <color name="color_5A5C68">#5A5C68</color>
+    <color name="color_88cc43">#88cc43</color>
+
+    <color name="color_ffb073">#ffb073</color>
+    <color name="color_BBDEFB">#BBDEFB</color>
+    <color name="color_9C27B0">#9C27B0</color>
+    <color name="color_d32f2f">#d32f2f</color>
+    <color name="color_546E7A">#546E7A</color>
+    <color name="color_DCEDC8">#DCEDC8</color>
+    <color name="color_FFEB3B">#FFEB3B</color>
+    <color name="color_BCAAA4">#BCAAA4</color>
+    <color name="color_00695C">#00695C</color>
+    <color name="color_00838F">#00838F</color>
+    <color name="color_18FFFF">#18FFFF</color>
+    <color name="color_2ecc71">#2ecc71</color>
+    <color name="color_27ae60">#27ae60</color>
+    <color name="color_f1c40f">#f1c40f</color>
+    <color name="color_f39c12">#f39c12</color>
+    <color name="color_c0392b">#c0392b</color>
+    <color name="color_aa00ff">#aa00ff</color>
+    <color name="color_f472d0">#f472d0</color>
+    <color name="color_d80073">#d80073</color>
+    <color name="color_a20025">#a20025</color>
+    <color name="color_e51400">#e51400</color>
+    <color name="color_fa6800">#fa6800</color>
+    <color name="color_f0a30a">#f0a30a</color>
+    <color name="color_e3c800">#e3c800</color>
+    <color name="color_76608a">#76608a</color>
+    <color name="color_1ba1e2">#1ba1e2</color>
+    <color name="color_0050ef">#0050ef</color>
+    <color name="color_6a00ff">#6a00ff</color>
+    <color name="color_a4c400">#a4c400</color>
+    <color name="color_008a00">#008a00</color>
+    <color name="color_4CAF50">#4CAF50</color>
+    <color name="text_black3">#333333</color>
+    <color name="text_black6">#666666</color>
+    <color name="text_black9">#999999</color>
+</resources>
